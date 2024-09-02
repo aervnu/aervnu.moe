@@ -5,17 +5,17 @@ const Page = () => {
             <h1><strong>Hello.</strong></h1>
             <br/>
             <p>
-              It's me, Andy Nguyen. I live in Vietnam, last I checked I was 17. I make
+              It&apos;s me, Andy Nguyen. I live in Vietnam, last I checked I was 17. I make
               things that either break or are not of much use. I run a home server
               funnily named Milan (see
               <a href="/devices" title="My devices"> Devices</a>), an Oracle VPS
-              coordinating my tailnet, and this very website you're viewing.
+              coordinating my tailnet, and this very website you&apos;re viewing.
             </p>
             <br/>
             <h1><strong>My hobbies</strong></h1>
             <p>
               <br/>
-              Regular expressions. I don't know why, but to me it's just really fun to
+              Regular expressions. I don&apos;t know why, but to me it&apos;s just really fun to
               craft and debug regex.
               <br/><br/>
               Hardware virtualization and (some) low level stuff. I did learn a bit of
@@ -31,7 +31,7 @@ const Page = () => {
               <br/>
               French and Japanese. Currently at DELF A2 for French, used to be at JLPT
               N5 for Japanese but I ended up not using it much. I still need a JLPT N2
-              after I finish university, as I'm aiming for a masters degree in Japan.
+              after I finish university, as I&apos;m aiming for a masters degree in Japan.
               <br/><br/>
               Networking. Lowkey my favorite when it comes to computing, even as
               traumatizing as it is setting up my Oracle VPS. Heading to a telecom
@@ -39,8 +39,8 @@ const Page = () => {
               the CCNP.
               <br/><br/>
               Some web-oriented (idek if I got this right) languages, like
-              C#, Java or JS. I have some experience with C# but haven't touched it
-              for like...months? Anyway, it seems like they're what the market is
+              C#, Java or JS. I have some experience with C# but haven&apos;t touched it
+              for like...months? Anyway, it seems like they&apos;re what the market is
               targeting for now, so it kinda makes sense to learn them.
             </p>
             <br/>
