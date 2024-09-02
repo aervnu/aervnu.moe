@@ -637,124 +637,16 @@ video {
 
 body {
   color: white;
-  background-image: url("./bg.jpg");
+  background-image: url("https://utfs.io/f/42a4b46e-a4f9-4542-aebc-9eb8a2932d00-2f9.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: fixed;
-  max-width: 650px;
+  background-position: center ;
+  max-width: 850px;
   padding: 0px 10px 75px;
-  margin: 40px auto;
+  margin: 40px auto 50px;
   font-family: "Fira Sans";
   font-weight: 400;
   height: 100dvh;
-}
-
-.fira-sans-thin {
-  font-family: "Fira Sans", system-ui;
-  font-weight: 100;
-  font-style: normal;
-}
-
-.fira-sans-extralight {
-  font-family: "Fira Sans", system-ui;
-  font-weight: 200;
-  font-style: normal;
-}
-
-.fira-sans-light {
-  font-family: "Fira Sans", system-ui;
-  font-weight: 300;
-  font-style: normal;
-}
-
-.fira-sans-regular {
-  font-family: "Fira Sans", system-ui;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.fira-sans-medium {
-  font-family: "Fira Sans", system-ui;
-  font-weight: 500;
-  font-style: normal;
-}
-
-.fira-sans-semibold {
-  font-family: "Fira Sans", system-ui;
-  font-weight: 600;
-  font-style: normal;
-}
-
-.fira-sans-bold {
-  font-family: "Fira Sans", system-ui;
-  font-weight: 700;
-  font-style: normal;
-}
-
-.fira-sans-extrabold {
-  font-family: "Fira Sans", system-ui;
-  font-weight: 800;
-  font-style: normal;
-}
-
-.fira-sans-black {
-  font-family: "Fira Sans", system-ui;
-  font-weight: 900;
-  font-style: normal;
-}
-
-.fira-sans-thin-italic {
-  font-family: "Fira Sans", system-ui;
-  font-weight: 100;
-  font-style: italic;
-}
-
-.fira-sans-extralight-italic {
-  font-family: "Fira Sans", system-ui;
-  font-weight: 200;
-  font-style: italic;
-}
-
-.fira-sans-light-italic {
-  font-family: "Fira Sans", system-ui;
-  font-weight: 300;
-  font-style: italic;
-}
-
-.fira-sans-regular-italic {
-  font-family: "Fira Sans", system-ui;
-  font-weight: 400;
-  font-style: italic;
-}
-
-.fira-sans-medium-italic {
-  font-family: "Fira Sans", system-ui;
-  font-weight: 500;
-  font-style: italic;
-}
-
-.fira-sans-semibold-italic {
-  font-family: "Fira Sans", system-ui;
-  font-weight: 600;
-  font-style: italic;
-}
-
-.fira-sans-bold-italic {
-  font-family: "Fira Sans", system-ui;
-  font-weight: 700;
-  font-style: italic;
-}
-
-.fira-sans-extrabold-italic {
-  font-family: "Fira Sans", system-ui;
-  font-weight: 800;
-  font-style: italic;
-}
-
-.fira-sans-black-italic {
-  font-family: "Fira Sans", system-ui;
-  font-weight: 900;
-  font-style: italic;
 }
 
 center {
