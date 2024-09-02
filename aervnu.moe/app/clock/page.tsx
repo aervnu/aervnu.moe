@@ -11,12 +11,12 @@ const page = () => {
     <hr />
     <br />
     <p>
-      <a href="./index.html" title="Head back home">Root</a> |
-      <a href="https://github.com/aervnu/aervnu.moe" title="Source code of this site">Source</a> |
-      <a className="aSelected" href="./time.html" title="Current page">Clock</a> |
-      <a href="./devices.html" title="My devices">Devices</a> |
-      <a href="https://hastebin.aervnu.moe" title="All you can paste">Starbin</a> |
-      <span title="Coming soon.">Stay tuned.</span>
+      <a href="/" title="Head back home">Root</a> |
+      <a href="https://github.com/aervnu/aervnu.moe" title="Source code of this site"> Source</a> |
+      <a className="aSelected" href="/clock" title="Current page"> Clock</a> |
+      <a href="/devices" title="My devices"> Devices</a> |
+      <a href="https://hastebin.aervnu.moe" title="All you can paste"> Starbin</a> |
+      <span title="Coming soon."> Stay tuned.</span>
       <br />
       <br />
       Photo by

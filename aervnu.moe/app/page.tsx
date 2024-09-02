@@ -57,13 +57,13 @@ export default function Home() {
       <p>
         <a className="aSelected" href="/" title="Current page">Root</a> | 
         <a href="https://github.com/aervnu/aervnu.moe" title="Source code of this site"> Source</a> | 
-        <a href="/clock" title="Real time system clock"> Clock </a> | 
+        <a href="/clock" title="Real time system clock"> Clock</a> | 
         <a href="/devices" title="My devices"> Devices</a> | 
-        <a href="https://hastebin.aervnu.moe" title="All you can paste"> Starbin </a> | 
+        <a href="https://hastebin.aervnu.moe" title="All you can paste"> Starbin</a> | 
         <span title="Coming soon."> Stay tuned.</span>
         <br /><br />
         Photo by
-        <a href="https://unsplash.com/@iamsantiago?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"> Santiago Gomez</a> on <a href="https://unsplash.com/photos/snow-capped-mountain-at-night-time-with-moon-WpZmGDzOAi0"> Unsplash</a>
+        <a href="https://unsplash.com/@iamsantiago"> Santiago Gomez</a> on <a href="https://unsplash.com/photos/snow-capped-mountain-at-night-time-with-moon-WpZmGDzOAi0"> Unsplash</a>
       </p>
     </div>
 </main>
