@@ -1,4 +1,4 @@
-# aervnu.moe (Optimizing CSS, might be broken for a while)
+# aervnu.moe (Migrating to NextJS. Will be broken for quite a while)
 
 Yes, my website. Please open a PR if you have any suggestions for it.
 
