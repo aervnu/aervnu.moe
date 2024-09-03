@@ -1,3 +1,4 @@
+import React from 'react'
 const Page = () => {
     return (
         <main>
@@ -53,8 +54,8 @@ const Page = () => {
                   href="https://signal.me/#eu/GzuQlUo5hWHjbngK7sIXAjiHMRavHLgoLA-K11mlXCSzI7DSszlI1ZbGpi8_suMp">@aervnu.43</a>
               </li>
               <li>Twitter: <a href="https://x.com/aervnu">@aervnu</a></li>
-              <li>Work email: <a href="mailto:andy@aervnu.moe">andy@aervnu.moe</a>
-              </li>
+              <li>Work email: <a href="mailto:andy@aervnu.moe">andy@aervnu.moe</a></li>
+              <li>GitHub profile: <a href="https://github.com/aervnu">aervnu</a> (only for PRs or issues please.)</li>
             </ul>
             <br/>
             <hr/>
@@ -65,6 +66,7 @@ const Page = () => {
               <a href="/clock" title="Real time system clock"> Clock</a> |
               <a href="/devices" title="My devices"> Devices</a> |
               <a href="https://hastebin.aervnu.moe" title="All you can paste"> Hastebin</a> |
+              <a href="/credits" title="Special thanks"> Credits</a> |
               <span title="Coming soon."> Stay tuned.</span>
               <br/><br/>
               Photo by

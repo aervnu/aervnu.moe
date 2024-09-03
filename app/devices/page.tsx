@@ -169,6 +169,7 @@ const page = () => {
         <a href="/clock" title="Real time system clock"> Clock</a> |
         <a href="/devices" className="aSelected" title="My devices"> Devices</a> |
         <a href="https://hastebin.aervnu.moe" title="All you can paste"> Hastebin</a> |
+        <a href="/credits" title="Special thanks"> Credits</a> |
         <span title="Coming soon."> Stay tuned.</span>
         <br/><br/>
         Photo by
