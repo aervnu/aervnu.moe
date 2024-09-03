@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
-import "../small.css";
+import { Fira_Sans } from "next/font/google";
+import "./small.css";
 
-const inter = Inter({ subsets: ["latin"] });
+const inter = Fira_Sans({ subsets: ['latin'], weight: "300"});
 
 export const metadata: Metadata = {
   title: "Real time system clock",

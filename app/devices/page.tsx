@@ -80,7 +80,7 @@ const page = () => {
           <tr className="bg-gray-50 hover:bg-gray-100">
             <td className="p-2 border border-gray-300">Burano</td>
             <td className="p-2 border border-gray-300">In commission</td>
-            <td className="p-2 border border-gray-300">Apple MacBook Pro 13" 2019 (4 Thunderbolt ports)</td>
+            <td className="p-2 border border-gray-300">Apple MacBook Pro 13&quot; 2019 (4 Thunderbolt ports)</td>
             <td className="p-2 border border-gray-300">Apple macOS Sonoma 14.6.1</td>
             <td className="p-2 border border-gray-300">Intel Core i7-8569U</td>
             <td className="p-2 border border-gray-300">16GB LPDDR3-2133 soldered</td>
