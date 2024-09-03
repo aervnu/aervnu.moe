@@ -1,4 +1,4 @@
-# aervnu.moe (Migrating to NextJS. Will be broken for quite a while)
+# aervnu.moe
 
 Yes, my website. Please open a PR if you have any suggestions for it.
 
@@ -17,3 +17,13 @@ Credits to:
 - [CoburnFuse](https://coburnius.net/) and
   [Stratos](https://github.com/sthivaios) for CSS designs (and HTML
   optimizations)
+
+## Status
+
+What's currently working?
+
+Root, clock, and devices.
+
+What's not working or has not been developed yet?
+
+HTTP 403, 404, and 500 page. Will be added later.
