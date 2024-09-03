@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { Fira_Sans } from "next/font/google";
-import ".big.css";
+import "big.css";
 
 const inter = Fira_Sans({ subsets: ['latin'], weight: "400"});
 
