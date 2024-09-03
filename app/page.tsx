@@ -64,7 +64,7 @@ const Page = () => {
               <a href="https://github.com/aervnu/aervnu.moe" title="Source code of this site"> Source</a> |
               <a href="/clock" title="Real time system clock"> Clock</a> |
               <a href="/devices" title="My devices"> Devices</a> |
-              <a href="https://hastebin.aervnu.moe" title="All you can paste"> Starbin</a> |
+              <a href="https://hastebin.aervnu.moe" title="All you can paste"> Hastebin</a> |
               <span title="Coming soon."> Stay tuned.</span>
               <br/><br/>
               Photo by
