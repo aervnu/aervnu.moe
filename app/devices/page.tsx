@@ -2,14 +2,14 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div className="container mx-auto bg-gray-700 p-6 shadow-lg">
+    <div className="containerOuter mx-auto">
       <h1 className="text-white-600 border-b-2 border-black pb-2 mb-6"><strong>My devices</strong></h1>
       <br /><br />
       <h1 className="text-white-600 border-b-2 border-black pb-2 mb-4"><strong>Computers</strong></h1>
       <br />
       <table className="w-full border-collapse mb-8">
         <thead>
-          <tr className="bg-blue-600 text-white">
+          <tr className="text-white">
             <th className="p-2 border border-gray-300">Codename</th>
             <th className="p-2 border border-gray-300">Status</th>
             <th className="p-2 border border-gray-300">System type</th>

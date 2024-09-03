@@ -1,7 +1,7 @@
 const Page = () => {
     return (
         <main>
-          <div className="containerOuter text-center sm:text-left">
+          <div className="containerOuter sm:text-left">
             <h1><strong>Hello.</strong></h1>
             <br/>
             <p>
