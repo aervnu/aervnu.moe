@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
  
 // These styles apply to every route in the application
-import 'small.css'
+import './small.css'
  
 export const metadata: Metadata = {
   title: 'Real time system clock',
