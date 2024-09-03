@@ -11,7 +11,7 @@ Credits to:
 
 - [Milkshake](https://github.com/FloatingMilkshake) for the baseline (the page
   is largely a customized version of
-  [this](https://github.com/FloatingMilkshake/floatingmilkshake.com))
+  [this](https://github.com/FloatingMilkshake/floatingmilkshake.com), well, most of the HTML code plus some parts of CSS that is. I've successfully moved the page over to Next.js, but it's more or less still an indirect adaptation.)
 - [Erisa](https://github.com/Erisa) for advices on DNS stuff and the decision
   to use Cloudflare Pages for easier HTTPS setup
 - [CoburnFuse](https://coburnius.net/) and
