@@ -4,7 +4,7 @@ import ISOClock from './clock'
 const page = () => {
   return (
     <div className= "containerOuter">
-    <h1>Real time system clock</h1>
+    <h1><strong>Real time system clock</strong></h1>
     <br />
     <p><ISOClock></ISOClock></p>
     <br />
