@@ -2,10 +2,10 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div className="container mx-auto bg-white p-6 shadow-lg">
-      <h1 className="font-bold text-blue-600 border-b-2 border-blue-600 pb-2 mb-6"><strong>My devices</strong></h1>
+    <div className="container mx-auto bg-gray-700 p-6 shadow-lg">
+      <h1 className="text-white-600 border-b-2 border-black pb-2 mb-6"><strong>My devices</strong></h1>
       <br /><br />
-      <h1 className="text-blue-600 border-b-2 border-blue-600 pb-2 mb-4"><strong>Computers</strong></h1>
+      <h1 className="text-white-600 border-b-2 border-black pb-2 mb-4"><strong>Computers</strong></h1>
       <br />
       <table className="w-full border-collapse mb-8">
         <thead>
