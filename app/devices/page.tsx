@@ -162,25 +162,25 @@ const page = () => {
           </tr>
         </tbody>
       </table>
-      <br /><br />
-      <b className="text-blue-600">Stay tuned for more updates!</b>
-      <br /><br />
+      <br />
+      <b className="text-white">Stay tuned for more updates!</b>
+      <br />
       <hr className="my-6 border-gray-300" />
-      <br /><br />
+      <br />
       <p className="text-sm">
-        <a href="/" className="text-blue-600 hover:underline" title="Head back home">Root </a>
+        <a href="/" className="text-white " title="Head back home">Root </a>
         |
-        <a href="https://github.com/aervnu/aervnu.moe" className="text-blue-600 hover:underline" title="Source code of this site"> Source </a>
+        <a href="https://github.com/aervnu/aervnu.moe" className="text-white" title="Source code of this site"> Source </a>
         |
-        <a href="/clock" className="text-blue-600 hover:underline" title="Real time system clock"> Clock </a>
+        <a href="/clock" className="text-white" title="Real time system clock"> Clock </a>
         |
-        <a className="text-blue-600 hover:underline font-bold" href=".devices" title="Current page"> Devices </a>
+        <a className="text-white font-bold" href="/devices" title="Current page"> Devices </a>
         |
-        <a href="https://hastebin.aervnu.moe" className="text-blue-600 hover:underline" title="All you can paste"> Starbin </a>
+        <a href="https://hastebin.aervnu.moe" className="text-white" title="All you can paste"> Starbin </a>
         |
-        <span className="text-gray-600" title="Coming soon."> Stay tuned.</span>
+        <span className="text-white" title="Coming soon."> Stay tuned.</span>
         <br /><br />
-        Photo by <a href="https://unsplash.com/@iamsantiago" className="text-blue-600 hover:underline">Santiago Gomez</a> on <a href="https://unsplash.com/photos/snow-capped-mountain-at-night-time-with-moon-WpZmGDzOAi0" className="text-blue-600 hover:underline">Unsplash</a>
+        Photo by <a href="https://unsplash.com/@iamsantiago" className="text-white">Santiago Gomez</a> on <a href="https://unsplash.com/photos/snow-capped-mountain-at-night-time-with-moon-WpZmGDzOAi0" className="text-white ">Unsplash</a>
       </p>
     </div>
   )
