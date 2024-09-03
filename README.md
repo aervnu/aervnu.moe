@@ -7,7 +7,16 @@ appreciate constructive feedback and contribution.
 
 ## Who helped make this?
 
-Credits can be found [here](https://aervnu.moe/credits).
+Credits to:
+
+- [Milkshake](https://github.com/FloatingMilkshake) for the baseline (the page
+  is largely a customized version of
+  [this](https://github.com/FloatingMilkshake/floatingmilkshake.com))
+- [Erisa](https://github.com/Erisa) for advices on DNS stuff and the decision
+  to use Cloudflare Pages for easier HTTPS setup
+- [CoburnFuse](https://coburnius.net/) and
+  [Stratos](https://github.com/sthivaios) for CSS designs (and HTML
+  optimizations)
 
 ## Status
 
