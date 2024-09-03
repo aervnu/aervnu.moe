@@ -3,10 +3,9 @@ import React from 'react'
 const page = () => {
   return (
     <div className="containerOuter mx-auto">
-      <h1 className="text-white-600 border-b-2 border-black pb-2 mb-6"><strong>My devices</strong></h1>
-      <br /><br />
-      <h1 className="text-white-600 border-b-2 border-black pb-2 mb-4"><strong>Computers</strong></h1>
+      <h1 className="text-white-600 pb-2 mb-6"><strong>My devices</strong></h1>
       <br />
+      <h1 className="text-white-600 pb-2 mb-4"><strong>Computers</strong></h1>
       <table className="w-full border-collapse mb-8">
         <thead>
           <tr className="text-white">
@@ -103,9 +102,8 @@ const page = () => {
           </tr>
         </tbody>
       </table>
-      <br /><br />
-      <h1 className="text-white-600 border-b-2 border-black pb-2 mb-4"><strong>Mobile devices</strong></h1>
       <br />
+      <h1 className="text-white-600 pb-2 mb-4"><strong>Mobile devices</strong></h1>
       <table className="w-full border-collapse mb-8">
         <thead>
           <tr className="text-white">
@@ -162,25 +160,19 @@ const page = () => {
           </tr>
         </tbody>
       </table>
-      <br />
       <b className="text-white">Stay tuned for more updates!</b>
       <br />
       <hr className="my-6 border-gray-300" />
-      <br />
-      <p className="text-sm">
-        <a href="/" className="text-white " title="Head back home">Root </a>
-        |
-        <a href="https://github.com/aervnu/aervnu.moe" className="text-white" title="Source code of this site"> Source </a>
-        |
-        <a href="/clock" className="text-white" title="Real time system clock"> Clock </a>
-        |
-        <a className="text-white font-bold" href="/devices" title="Current page"> Devices </a>
-        |
-        <a href="https://hastebin.aervnu.moe" className="text-white" title="All you can paste"> Starbin </a>
-        |
-        <span className="text-white" title="Coming soon."> Stay tuned.</span>
-        <br /><br />
-        Photo by <a href="https://unsplash.com/@iamsantiago" className="text-white">Santiago Gomez</a> on <a href="https://unsplash.com/photos/snow-capped-mountain-at-night-time-with-moon-WpZmGDzOAi0" className="text-white ">Unsplash</a>
+      <p>
+        <a className="aSelected" href="/" title="Current page">Root</a> |
+        <a href="https://github.com/aervnu/aervnu.moe" title="Source code of this site"> Source</a> |
+        <a href="/clock" title="Real time system clock"> Clock</a> |
+        <a href="/devices" title="My devices"> Devices</a> |
+        <a href="https://hastebin.aervnu.moe" title="All you can paste"> Starbin</a> |
+        <span title="Coming soon."> Stay tuned.</span>
+        <br/><br/>
+        Photo by
+        <a href="https://unsplash.com/@iamsantiago"> Santiago Gomez</a> on <a href="https://unsplash.com/photos/snow-capped-mountain-at-night-time-with-moon-WpZmGDzOAi0"> Unsplash</a>
       </p>
     </div>
   )
