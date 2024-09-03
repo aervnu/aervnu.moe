@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
  
 // These styles apply to every route in the application
-import './big.css'
+import '.big.css'
  
 export const metadata: Metadata = {
   title: 'Create Next App',
