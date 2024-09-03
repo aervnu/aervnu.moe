@@ -2,11 +2,11 @@ import type { Metadata } from "next";
 import { Fira_Sans } from "next/font/google";
 import "./small.css";
 
-const inter = Fira_Sans({ subsets: ['latin'], weight: "300"});
+const inter = Fira_Sans({ subsets: ['latin'], weight: "400"});
 
 export const metadata: Metadata = {
-  title: "Real time system clock",
-  description: "Is it bedtime already?",
+  title: "aervnu",
+  description: "my refuge",
 };
 
 export default function RootLayout({
