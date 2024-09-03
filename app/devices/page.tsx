@@ -21,7 +21,7 @@ const page = () => {
           </tr>
         </thead>
         <tbody>
-          <tr className="bg-gray-50 hover:bg-gray-100">
+          <tr className="bg-gray-700 hover:bg-gray-600">
             <td className="p-2 border border-gray-300">Rome</td>
             <td className="p-2 border border-gray-300">In commission</td>
             <td className="p-2 border border-gray-300">MSI B550-A PRO (MS-7C56)</td>
@@ -39,7 +39,7 @@ const page = () => {
               SATA P1: 128GB PLEXTOR M8V
             </td>
           </tr>
-          <tr className="bg-gray-50 hover:bg-gray-100">
+          <tr className="bg-gray-700 hover:bg-gray-600">
             <td className="p-2 border border-gray-300">Milan</td>
             <td className="p-2 border border-gray-300">In commission</td>
             <td className="p-2 border border-gray-300">ASUS Z9PA-D8C</td>
@@ -57,7 +57,7 @@ const page = () => {
               RAID 5: 8x 1TB WD Ultrastar DC-HA210
             </td>
           </tr>
-          <tr className="bg-gray-50 hover:bg-gray-100">
+          <tr className="bg-gray-700 hover:bg-gray-600">
             <td className="p-2 border border-gray-300">Ferrara</td>
             <td className="p-2 border border-gray-300">In commission</td>
             <td className="p-2 border border-gray-300">OCI VM.Standard.A1.Flex</td>
@@ -67,7 +67,7 @@ const page = () => {
             <td className="p-2 border border-gray-300">Red Hat Virtio-GPU</td>
             <td className="p-2 border border-gray-300">200GB block volume</td>
           </tr>
-          <tr className="bg-gray-50 hover:bg-gray-100">
+          <tr className="bg-gray-700 hover:bg-gray-600">
             <td className="p-2 border border-gray-300">Bologna</td>
             <td className="p-2 border border-gray-300">In commission</td>
             <td className="p-2 border border-gray-300">ASUS VivoBook X1503ZA</td>
@@ -77,7 +77,7 @@ const page = () => {
             <td className="p-2 border border-gray-300">Intel UHD Graphics 64EU</td>
             <td className="p-2 border border-gray-300">NSID 1: 256GB Micron 2450 NVMe PCIe 4.0 x4</td>
           </tr>
-          <tr className="bg-gray-50 hover:bg-gray-100">
+          <tr className="bg-gray-700 hover:bg-gray-600">
             <td className="p-2 border border-gray-300">Burano</td>
             <td className="p-2 border border-gray-300">In commission</td>
             <td className="p-2 border border-gray-300">Apple MacBook Pro 13&quot; 2019 (4 Thunderbolt ports)</td>
@@ -87,7 +87,7 @@ const page = () => {
             <td className="p-2 border border-gray-300">Intel Iris Plus 655 128MB eDRAM</td>
             <td className="p-2 border border-gray-300">512GB soldered SSD, NVMe</td>
           </tr>
-          <tr className="bg-gray-50 hover:bg-gray-100">
+          <tr className="bg-gray-700 hover:bg-gray-600">
             <td className="p-2 border border-gray-300">Genoa</td>
             <td className="p-2 border border-gray-300">Decommissioned</td>
             <td className="p-2 border border-gray-300">Gigabyte GA-B75M-D3H</td>
@@ -120,7 +120,7 @@ const page = () => {
           </tr>
         </thead>
         <tbody>
-          <tr className="bg-gray-50 hover:bg-gray-100">
+          <tr className="bg-gray-700 hover:bg-gray-600">
             <td className="p-2 border border-gray-300">Venice</td>
             <td className="p-2 border border-gray-300">In commission</td>
             <td className="p-2 border border-gray-300">Apple iPhone SE 2</td>
@@ -130,7 +130,7 @@ const page = () => {
             <td className="p-2 border border-gray-300">Apple GPU (4 core)</td>
             <td className="p-2 border border-gray-300">64GB</td>
           </tr>
-          <tr className="bg-gray-50 hover:bg-gray-100">
+          <tr className="bg-gray-700 hover:bg-gray-600">
             <td className="p-2 border border-gray-300">Naples</td>
             <td className="p-2 border border-gray-300">In commission</td>
             <td className="p-2 border border-gray-300">Apple iPad Air 4</td>
@@ -140,7 +140,7 @@ const page = () => {
             <td className="p-2 border border-gray-300">Apple GPU (4 core)</td>
             <td className="p-2 border border-gray-300">256GB</td>
           </tr>
-          <tr className="bg-gray-50 hover:bg-gray-100">
+          <tr className="bg-gray-700 hover:bg-gray-600">
             <td className="p-2 border border-gray-300">Turin</td>
             <td className="p-2 border border-gray-300">Decommissioned</td>
             <td className="p-2 border border-gray-300">Apple iPad Air 1</td>
@@ -150,7 +150,7 @@ const page = () => {
             <td className="p-2 border border-gray-300">PowerVR G6430</td>
             <td className="p-2 border border-gray-300">16GB</td>
           </tr>
-          <tr className="bg-gray-50 hover:bg-gray-100">
+          <tr className="bg-gray-700 hover:bg-gray-600">
             <td className="p-2 border border-gray-300">Florence</td>
             <td className="p-2 border border-gray-300">Decommissioned</td>
             <td className="p-2 border border-gray-300">Microsoft Lumia 950 XL</td>
