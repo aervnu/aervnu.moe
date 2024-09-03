@@ -6,7 +6,7 @@ const inter = Fira_Sans({ subsets: ['latin'], weight: "400"});
 
 export const metadata: Metadata = {
   title: "aervnu!!!",
-  description: "My refuge",
+  description: "My home on the internet",
 };
 
 export default function RootLayout({
