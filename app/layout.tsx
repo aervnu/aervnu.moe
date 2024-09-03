@@ -5,8 +5,8 @@ import "big.css";
 const inter = Fira_Sans({ subsets: ['latin'], weight: "400"});
 
 export const metadata: Metadata = {
-  title: "aervnu",
-  description: "my refuge",
+  title: "aervnu!!!",
+  description: "My refuge",
 };
 
 export default function RootLayout({
