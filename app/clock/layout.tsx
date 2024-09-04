@@ -1,6 +1,13 @@
 import type { Metadata } from 'next'
- 
-// These styles apply to every route in the application
+import { Fira_Sans } from 'next/font/google'
+
+const fira_sans = Fira_Sans({
+  weight: ['400', '700'],
+  style: ['normal', 'italic'],
+  subsets: ['latin'],
+  display: 'swap',
+})
+
 import './small.css'
  
 export const metadata: Metadata = {

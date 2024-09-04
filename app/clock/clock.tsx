@@ -11,22 +11,23 @@ function ISOClock() {
     return () => clearInterval(intervalId);
   }, []);
 
-  const formattedDate = time.toLocaleDateString('en-US', {
-    weekday: 'long',
-    month: 'long',
-    day: 'numeric',
-    year: 'numeric',
-  });
+  const date = new Date();
 
-  const formattedTime = time.toLocaleTimeString('en-US', {
-    hour: 'numeric',
-    minute: 'numeric',
-    second: 'numeric',
-    hour12: false
-  });
+const formatter = new Intl.DateTimeFormat('en-US', {
+  weekday: 'long',
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+  hour: 'numeric',
+  minute: 'numeric',
+  timeZone: 'America/New_York',
+  hour12: false
+});
 
-  return (
-    <div>{formattedDate} {formattedTime}</div>
+console.log(formatter.format(date));
+  
+return (
+    <div>{formatter.toString()}</div>
   );
 }
 
