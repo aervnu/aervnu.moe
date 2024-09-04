@@ -13,21 +13,23 @@ function ISOClock() {
 
   const date = new Date();
 
-const formatter = new Intl.DateTimeFormat('en-US', {
-  weekday: 'long',
-  year: 'numeric',
-  month: 'long',
-  day: 'numeric',
-  hour: 'numeric',
-  minute: 'numeric',
-  timeZone: 'Asia/Ho_Chi_Minh',
-  hour12: false
-});
+  const formattedDate = time.toLocaleDateString('en-US', {
+    weekday: 'long',
+    month: 'long',
+    day: 'numeric',
+    year: 'numeric',
+  });
 
-console.log(formatter.format(date));
-  
-return (
-    <div>{formatter.toString()}</div>
+  const formattedTime = time.toLocaleTimeString('en-US', {
+    hour: 'numeric',
+    minute: 'numeric',
+    second: 'numeric',
+    hour12: false,
+    timeZone: 'Asia/Ho_Chi_Minh'
+  });
+
+  return (
+    <div>{formattedDate} {formattedTime}</div>
   );
 }
 
