@@ -164,7 +164,7 @@ const page = () => {
       <br />
       <hr className="my-6 border-gray-300" />
       <p>
-        <a className="aSelected" href="/" title="Current page">Root</a> |
+        <a href="/" title="Current page">Root</a> |
         <a href="https://github.com/aervnu/aervnu.moe" title="Source code of this site"> Source</a> |
         <a href="/clock" title="Real time system clock"> Clock</a> |
         <a href="/devices" className="aSelected" title="My devices"> Devices</a> |
