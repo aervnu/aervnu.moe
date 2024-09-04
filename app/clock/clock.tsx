@@ -20,7 +20,7 @@ const formatter = new Intl.DateTimeFormat('en-US', {
   day: 'numeric',
   hour: 'numeric',
   minute: 'numeric',
-  timeZone: 'America/New_York',
+  timeZone: 'Asia/Ho_Chi_Minh',
   hour12: false
 });
 
