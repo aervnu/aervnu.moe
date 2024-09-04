@@ -14,6 +14,8 @@ const page = () => {
            <br /><br />
            - <a href="https://coburnius.net/">CoburnFuse</a> and <a href="https://github.com/sthivaios/">Stratos</a> for general page optimizations.
            <br /><br />
+           - <a href="https://1k2s.netlify.app/">1Git2Clone</a> for code formatting optimizations. (sorry dude I broke your Prettier config but I'll throw things into src for dev before pushing to prod)
+           <br /><br />
            (And do check out all their cool stuff as well.)
         </p>
         <br/>
