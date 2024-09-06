@@ -1,10 +1,12 @@
 'use client';
 import React from 'react'
 import ISOClock from './clock'
-
+import { Fira_Sans } from 'next/font/google'
+ 
+const fira = Fira_Sans({ subsets: ['latin'] })
 const page = () => {
   return (
-    <div className= "containerOuter">
+    <div className= "containerOuter" {fira.className}>
     <h1><strong>Real time system clock</strong></h1>
     <br />
     <p><ISOClock></ISOClock></p>
