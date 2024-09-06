@@ -2,7 +2,7 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div className="containerOuter mx-auto">
+    <div className="mx-auto">
       <h1 className="text-white-600 pb-2 mb-6"><strong>My devices</strong></h1>
       <br />
       <h1 className="text-white-600 pb-2 mb-4"><strong>Computers</strong></h1>
