@@ -648,10 +648,8 @@ center {
   margin: 40px 0;
 }
 
-.containerOuter {
-  background-color: hsla(0, 0%, 0%, 0.377);
+div {
   text-align: center;
-  padding: 25px;
 }
 
 a {
