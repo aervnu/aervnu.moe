@@ -6,7 +6,7 @@ import { Fira_Sans } from 'next/font/google'
 const fira = Fira_Sans({ subsets: ['latin'] })
 const page = () => {
   return (
-    <div className= "containerOuter" {fira.className}>
+    <div className= {fira.className}>
     <h1><strong>Real time system clock</strong></h1>
     <br />
     <p><ISOClock></ISOClock></p>
