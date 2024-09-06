@@ -3,7 +3,12 @@ import React from 'react'
 import ISOClock from './clock'
 import { Fira_Sans } from 'next/font/google'
  
-const fira = Fira_Sans({ subsets: ['latin'] })
+const fira = Fira_Sans({ 
+weight: ['400', '700'],
+  style: ['normal', 'italic'],
+  subsets: ['latin'],
+  display: 'swap',
+})
 const page = () => {
   return (
     <div className= {fira.className}>
