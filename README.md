@@ -9,6 +9,22 @@ appreciate constructive feedback and contribution.
 
 Credits can be found [here](https://aervnu.moe/credits).
 
+## Development
+
+Requirements: Node.js ≥ 20
+
+Install dependencies:
+
+```
+npm install --save-dev
+```
+
+Start the site with real-time changes:
+
+```
+npm run dev
+```
+
 ## Status
 
 What's currently working?
