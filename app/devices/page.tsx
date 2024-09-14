@@ -46,7 +46,7 @@ const page = () => {
             <td className="p-2 border border-gray-300">2x Intel Xeon E5-2697v2</td>
             <td className="p-2 border border-gray-300">192GB (8x24GB) DDR3-1866 ECC RDIMM</td>
             <td className="p-2 border border-gray-300">
-              GPU 0: AMD Radeon PRO WX2100 2x16GB
+              GPU 0: AMD Radeon PRO WX2100 2GB
               <br /><br />
               GPU 1: NVIDIA Quadro P4000 8GB
             </td>
