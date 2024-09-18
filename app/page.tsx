@@ -8,7 +8,7 @@ const Page = () => {
             <p>
               It&apos;s me, Andy Nguyen. I live in Vietnam, last I checked I was 17. I make
               things that either break or are not of much use. I run a home server
-              funnily named Milan (see
+              funnily named Milano (see
               <a href="/devices" title="My devices"> Devices</a>), an Oracle VPS
               coordinating my tailnet, and this very website you&apos;re viewing.
             </p>
