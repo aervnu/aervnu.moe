@@ -21,7 +21,7 @@ const page = () => {
         </thead>
         <tbody>
           <tr className="bg-transparent">
-            <td className="p-2 border border-gray-300">Rome</td>
+            <td className="p-2 border border-gray-300">Roma</td>
             <td className="p-2 border border-gray-300">In commission</td>
             <td className="p-2 border border-gray-300">MSI B550-A PRO (MS-7C56)</td>
             <td className="p-2 border border-gray-300">Microsoft Windows 11 Pro for Workstations 23H2</td>
@@ -39,7 +39,7 @@ const page = () => {
             </td>
           </tr>
           <tr className="bg-transparent">
-            <td className="p-2 border border-gray-300">Milan</td>
+            <td className="p-2 border border-gray-300">Milano</td>
             <td className="p-2 border border-gray-300">In commission</td>
             <td className="p-2 border border-gray-300">ASUS Z9PA-D8C</td>
             <td className="p-2 border border-gray-300">Microsoft Windows Server 2022 with DEx</td>
@@ -87,7 +87,7 @@ const page = () => {
             <td className="p-2 border border-gray-300">512GB soldered SSD, NVMe</td>
           </tr>
           <tr className="bg-transparent">
-            <td className="p-2 border border-gray-300">Genoa</td>
+            <td className="p-2 border border-gray-300">Genova</td>
             <td className="p-2 border border-gray-300">Decommissioned</td>
             <td className="p-2 border border-gray-300">Gigabyte GA-B75M-D3H</td>
             <td className="p-2 border border-gray-300">Microsoft Windows 10 Pro 22H2</td>
@@ -119,7 +119,7 @@ const page = () => {
         </thead>
         <tbody>
           <tr className="bg-transparent">
-            <td className="p-2 border border-gray-300">Venice</td>
+            <td className="p-2 border border-gray-300">Venezia</td>
             <td className="p-2 border border-gray-300">In commission</td>
             <td className="p-2 border border-gray-300">Apple iPhone SE 2</td>
             <td className="p-2 border border-gray-300">Apple iOS 18.0</td>
@@ -129,7 +129,7 @@ const page = () => {
             <td className="p-2 border border-gray-300">64GB</td>
           </tr>
           <tr className="bg-transparent">
-            <td className="p-2 border border-gray-300">Naples</td>
+            <td className="p-2 border border-gray-300">Napoli</td>
             <td className="p-2 border border-gray-300">In commission</td>
             <td className="p-2 border border-gray-300">Apple iPad Air 4</td>
             <td className="p-2 border border-gray-300">Apple iPadOS 18.0</td>
@@ -139,7 +139,7 @@ const page = () => {
             <td className="p-2 border border-gray-300">256GB</td>
           </tr>
           <tr className="bg-transparent">
-            <td className="p-2 border border-gray-300">Turin</td>
+            <td className="p-2 border border-gray-300">Torino</td>
             <td className="p-2 border border-gray-300">Decommissioned</td>
             <td className="p-2 border border-gray-300">Apple iPad Air 1</td>
             <td className="p-2 border border-gray-300">Apple iOS 12.5.7</td>
@@ -149,7 +149,7 @@ const page = () => {
             <td className="p-2 border border-gray-300">16GB</td>
           </tr>
           <tr className="bg-transparent">
-            <td className="p-2 border border-gray-300">Florence</td>
+            <td className="p-2 border border-gray-300">Firenze</td>
             <td className="p-2 border border-gray-300">Decommissioned</td>
             <td className="p-2 border border-gray-300">Microsoft Lumia 950 XL</td>
             <td className="p-2 border border-gray-300">Microsoft Windows 10 Mobile 1703</td>
