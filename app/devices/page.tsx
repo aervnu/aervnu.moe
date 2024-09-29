@@ -68,7 +68,7 @@ const page = () => {
           </tr>
           <tr className="bg-transparent">
             <td className="p-2 border border-gray-300">Bologna</td>
-            <td className="p-2 border border-gray-300">Decommissioned</td>
+            <td className="p-2 border border-gray-300">In commission</td>
             <td className="p-2 border border-gray-300">ASUS VivoBook X1503ZA</td>
             <td className="p-2 border border-gray-300">Microsoft Windows 11 Pro 23H2</td>
             <td className="p-2 border border-gray-300">Intel Core i3-1220P</td>
