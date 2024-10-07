@@ -24,7 +24,7 @@ const page = () => {
             <td className="p-2 border border-gray-300">Roma</td>
             <td className="p-2 border border-gray-300">In commission</td>
             <td className="p-2 border border-gray-300">MSI B550-A PRO (MS-7C56)</td>
-            <td className="p-2 border border-gray-300">Microsoft Windows 11 Pro for Workstations 23H2</td>
+            <td className="p-2 border border-gray-300">Microsoft Windows 11 Pro for Workstations 24H2</td>
             <td className="p-2 border border-gray-300">AMD Ryzen 7 5700X3D</td>
             <td className="p-2 border border-gray-300">32GB (2x16GB) DDR4-3200 UDIMM (XMP)</td>
             <td className="p-2 border border-gray-300">MSI MECH 2X Radeon RX 6700XT 12GB</td>
@@ -42,13 +42,13 @@ const page = () => {
             <td className="p-2 border border-gray-300">Milano</td>
             <td className="p-2 border border-gray-300">In commission</td>
             <td className="p-2 border border-gray-300">ASUS Z9PA-D8C</td>
-            <td className="p-2 border border-gray-300">Microsoft Windows Server 2022 with DEx</td>
+            <td className="p-2 border border-gray-300">Proxmox VE 8.2</td>
             <td className="p-2 border border-gray-300">2x Intel Xeon E5-2697v2</td>
             <td className="p-2 border border-gray-300">192GB (8x24GB) DDR3-1866 ECC RDIMM</td>
             <td className="p-2 border border-gray-300">
               GPU 0: AMD Radeon PRO WX2100 2GB
               <br /><br />
-              GPU 1: NVIDIA Quadro P4000 8GB
+              GPU 1: NVIDIA Quadro RTX 5000 16GB
             </td>
             <td className="p-2 border border-gray-300">
               SATA P0: 512GB Samsung 870 EVO
@@ -70,9 +70,9 @@ const page = () => {
             <td className="p-2 border border-gray-300">Bologna</td>
             <td className="p-2 border border-gray-300">In commission</td>
             <td className="p-2 border border-gray-300">ASUS VivoBook X1503ZA</td>
-            <td className="p-2 border border-gray-300">Microsoft Windows 11 Pro 23H2</td>
+            <td className="p-2 border border-gray-300">Microsoft Windows 11 Pro 24H2</td>
             <td className="p-2 border border-gray-300">Intel Core i3-1220P</td>
-            <td className="p-2 border border-gray-300">8GB DDR4-3200 SODIMM</td>
+            <td className="p-2 border border-gray-300">16GB (2x8GB) DDR4-2400 SODIMM</td>
             <td className="p-2 border border-gray-300">Intel UHD Graphics 64EU</td>
             <td className="p-2 border border-gray-300">NSID 1: 256GB Micron 2450 NVMe PCIe 4.0 x4</td>
           </tr>
