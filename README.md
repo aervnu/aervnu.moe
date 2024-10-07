@@ -19,7 +19,7 @@ Install dependencies:
 npm install --save-dev
 ```
 
-Start the site with real-time changes:
+Start the site with real-time changes, served at `localhost:3000`:
 
 ```
 npm run dev
