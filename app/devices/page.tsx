@@ -80,7 +80,7 @@ const page = () => {
             <td className="p-2 border border-gray-300">Burano</td>
             <td className="p-2 border border-gray-300">In commission</td>
             <td className="p-2 border border-gray-300">Apple MacBook Pro 13&quot; 2019 (4 Thunderbolt ports)</td>
-            <td className="p-2 border border-gray-300">Apple macOS Sonoma 14.6.1</td>
+            <td className="p-2 border border-gray-300">Apple macOS Sequoia 15.0</td>
             <td className="p-2 border border-gray-300">Intel Core i7-8569U</td>
             <td className="p-2 border border-gray-300">16GB LPDDR3-2133 soldered</td>
             <td className="p-2 border border-gray-300">Intel Iris Plus 655 128MB eDRAM</td>
@@ -122,7 +122,7 @@ const page = () => {
             <td className="p-2 border border-gray-300">Venezia</td>
             <td className="p-2 border border-gray-300">In commission</td>
             <td className="p-2 border border-gray-300">Apple iPhone SE 2</td>
-            <td className="p-2 border border-gray-300">Apple iOS 18.0</td>
+            <td className="p-2 border border-gray-300">Apple iOS 18.0.1</td>
             <td className="p-2 border border-gray-300">Apple A13 Bionic</td>
             <td className="p-2 border border-gray-300">3GB</td>
             <td className="p-2 border border-gray-300">Apple GPU (4 core)</td>
@@ -132,7 +132,7 @@ const page = () => {
             <td className="p-2 border border-gray-300">Napoli</td>
             <td className="p-2 border border-gray-300">In commission</td>
             <td className="p-2 border border-gray-300">Apple iPad Air 4</td>
-            <td className="p-2 border border-gray-300">Apple iPadOS 18.0</td>
+            <td className="p-2 border border-gray-300">Apple iPadOS 18.0.1</td>
             <td className="p-2 border border-gray-300">Apple A14 Bionic</td>
             <td className="p-2 border border-gray-300">4GB</td>
             <td className="p-2 border border-gray-300">Apple GPU (4 core)</td>
