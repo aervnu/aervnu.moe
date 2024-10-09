@@ -30,7 +30,7 @@ const Page = () => {
             <h1><strong>Things I wanna learn more in the future</strong></h1>
             <p>
               <br/>
-              French and Japanese. Currently at DELF A2 for French, used to be at JLPT
+              French and Japanese. Currently at DELF B1 for French, used to be at JLPT
               N5 for Japanese but I ended up not using it much. I still need a JLPT N2
               after I finish university, as I&apos;m aiming for a masters degree in Japan.
               <br/><br/>
