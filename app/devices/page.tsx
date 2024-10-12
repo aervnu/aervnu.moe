@@ -41,14 +41,14 @@ const page = () => {
           <tr className="bg-transparent">
             <td className="p-2 border border-gray-300">Milano</td>
             <td className="p-2 border border-gray-300">In commission</td>
-            <td className="p-2 border border-gray-300">ASUS Z9PA-D8C</td>
+            <td className="p-2 border border-gray-300">Supermicro H11DSI SP3</td>
             <td className="p-2 border border-gray-300">Proxmox VE 8.2</td>
-            <td className="p-2 border border-gray-300">2x Intel Xeon E5-2697v2</td>
-            <td className="p-2 border border-gray-300">192GB (8x24GB) DDR3-1866 ECC RDIMM</td>
+            <td className="p-2 border border-gray-300">2x AMD EPYC 7642</td>
+            <td className="p-2 border border-gray-300">256GB (8x32GB) DDR4-2666 ECC RDIMM</td>
             <td className="p-2 border border-gray-300">
               GPU 0: AMD Radeon PRO WX2100 2GB
               <br /><br />
-              GPU 1: NVIDIA Quadro RTX 5000 16GB
+              GPU 1 & 2: NVIDIA RTX A5000 2x24GB
             </td>
             <td className="p-2 border border-gray-300">
               SATA P0: 512GB Samsung 870 EVO
@@ -67,7 +67,7 @@ const page = () => {
             <td className="p-2 border border-gray-300">200GB block volume</td>
           </tr>
           <tr className="bg-transparent">
-            <td className="p-2 border border-gray-300">Bologna</td>
+            <td className="p-2 border border-gray-300">Alessandria</td>
             <td className="p-2 border border-gray-300">In commission</td>
             <td className="p-2 border border-gray-300">ASUS VivoBook X1503ZA</td>
             <td className="p-2 border border-gray-300">Microsoft Windows 11 Pro 24H2</td>
@@ -99,6 +99,58 @@ const page = () => {
               <br /><br />
               SATA P1: 128GB Lexar NS100
             </td>
+          </tr>
+          <tr className="bg-transparent">
+            <td className="p-2 border border-gray-300">Catania</td>
+            <td className="p-2 border border-gray-300">Sold</td>
+            <td className="p-2 border border-gray-300">Lenovo ThinkPad W541</td>
+            <td className="p-2 border border-gray-300">Microsoft Windows 11 Pro for Workstations 23H2</td>
+            <td className="p-2 border border-gray-300">Intel Core i7-4940XM</td>
+            <td className="p-2 border border-gray-300">32GB (4x8GB) DDR3L-1600 SODIMM</td>
+            <td className="p-2 border border-gray-300">NVIDIA Quadro K2200M 2GB</td>
+            <td className="p-2 border border-gray-300">
+              SATA P0: 512GB Samsung 870 EVO
+              <br /><br />
+              SATA P1 (Ultrabay): 256GB Samsung 860 EVO
+            </td>
+          </tr>
+          <tr className="bg-transparent">
+            <td className="p-2 border border-gray-300">Trieste</td>
+            <td className="p-2 border border-gray-300">Sold</td>
+            <td className="p-2 border border-gray-300">Lenovo ThinkPad E14 Gen 2</td>
+            <td className="p-2 border border-gray-300">Microsoft Windows 11 Pro 22H2</td>
+            <td className="p-2 border border-gray-300">Intel Core i7-1165G7</td>
+            <td className="p-2 border border-gray-300">40GB (8GB soldered DDR4-3200 + 32GB DDR4-3200 SODIMM)</td>
+            <td className="p-2 border border-gray-300">Intel Iris Xe G7 96EU</td>
+            <td className="p-2 border border-gray-300">
+              NSID 1: 500GB WD Blue SN580 
+              <br /><br />
+              SATA P0: 250GB Crucial MX500
+            </td>
+            </tr>
+            <tr className="bg-transparent">
+            <td className="p-2 border border-gray-300">Messina</td>
+            <td className="p-2 border border-gray-300">Decommissioned</td>
+            <td className="p-2 border border-gray-300">Lenovo ThinkPad W510</td>
+            <td className="p-2 border border-gray-300">Microsoft Windows 11 Pro 22H2</td>
+            <td className="p-2 border border-gray-300">Intel Core i7-720QM</td>
+            <td className="p-2 border border-gray-300">16GB (4x4GB) DDR3-1333 SODIMM</td>
+            <td className="p-2 border border-gray-300">NVIDIA Quadro FX 880M 1GB</td>
+            <td className="p-2 border border-gray-300">
+              SATA P0: 256GB Samsung 870 EVO
+              <br /><br />
+              SATA P1 (Ultrabay): 120GB KINGSTON HyperX
+            </td>
+          </tr>
+          <tr className="bg-transparent">
+            <td className="p-2 border border-gray-300">Verona</td>
+            <td className="p-2 border border-gray-300">Decommissioned</td>
+            <td className="p-2 border border-gray-300">Lenovo ThinkPad X200</td>
+            <td className="p-2 border border-gray-300">Microsoft Windows 11 Home 21H2</td>
+            <td className="p-2 border border-gray-300">Intel Core 2 Duo P8600</td>
+            <td className="p-2 border border-gray-300">6GB (2+4GB) DDR3-1066 SODIMM</td>
+            <td className="p-2 border border-gray-300">Intel GMA 4500MHD</td>
+            <td className="p-2 border border-gray-300">SATA P0: 256GB Samsung 870 EVO</td>
           </tr>
         </tbody>
       </table>

@@ -3,7 +3,7 @@ const Page = () => {
     return (
         <main>
           <div className="containerOuter sm:text-left">
-            <h1><strong>Hello.</strong></h1>
+            <h1><strong>Hello. No, this is my localhost. Not yours.</strong></h1>
             <br/>
             <p>
               It&apos;s me, Andy Nguyen. I live in Vietnam, last I checked I was 17. I make

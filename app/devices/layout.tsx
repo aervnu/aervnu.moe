@@ -5,7 +5,7 @@ import './big.css'
  
 export const metadata: Metadata = {
   title: 'My devices',
-  description: 'What do I use?',
+  description: 'What do I (used to) use?',
 }
  
 export default function RootLayout({

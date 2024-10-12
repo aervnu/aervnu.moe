@@ -5,8 +5,8 @@ import "./big.css";
 const inter = Fira_Sans({ subsets: ['latin'], weight: "400"});
 
 export const metadata: Metadata = {
-  title: "aervnu!!!",
-  description: "My home on the internet",
+  title: "127.0.0.1",
+  description: "A very random localhost",
 };
 
 export default function RootLayout({
