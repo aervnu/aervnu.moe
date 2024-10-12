@@ -40,7 +40,7 @@ const page = () => {
           </tr>
           <tr className="bg-transparent">
             <td className="p-2 border border-gray-300">Milano</td>
-            <td className="p-2 border border-gray-300">In commission</td>
+            <td className="p-2 border border-gray-300">Temporarily decommissioned for hardware upgrade</td>
             <td className="p-2 border border-gray-300">Supermicro H11DSI SP3</td>
             <td className="p-2 border border-gray-300">Proxmox VE 8.2</td>
             <td className="p-2 border border-gray-300">2x AMD EPYC 7642</td>
