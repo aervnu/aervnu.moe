@@ -29,7 +29,7 @@ npm run dev
 
 What's currently working?
 
-Root, clock, devices and credits page.
+Root, clock, devices, Hastebin and credits page.
 
 What's not working or has not been developed yet?
 
