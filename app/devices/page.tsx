@@ -6,7 +6,7 @@ const page = () => {
       <h1 className="text-white-600 pb-2 mb-6"><strong>My devices</strong></h1>
       <br />
       <h1 className="text-white-600 pb-2 mb-4"><strong>Computers</strong></h1>
-      <table className="content-center w-full border-collapse mb-8">
+      <table className="content-center">
         <thead>
           <tr className="text-white">
             <th className="p-2 border border-gray-300">Codename</th>
