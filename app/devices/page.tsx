@@ -87,7 +87,7 @@ const page = () => {
             <td className="p-2 border border-gray-300">512GB soldered SSD, NVMe</td>
           </tr>
           <tr className="bg-transparent">
-            <td className="p-2 border border-gray-300">Genova</td>
+            <td className="p-2 border border-gray-300">Andria</td>
             <td className="p-2 border border-gray-300">Decommissioned</td>
             <td className="p-2 border border-gray-300">Gigabyte GA-B75M-D3H</td>
             <td className="p-2 border border-gray-300">Microsoft Windows 10 Pro 22H2</td>
@@ -177,6 +177,16 @@ const page = () => {
             <td className="p-2 border border-gray-300">Apple iOS 18.0.1</td>
             <td className="p-2 border border-gray-300">Apple A13 Bionic</td>
             <td className="p-2 border border-gray-300">3GB</td>
+            <td className="p-2 border border-gray-300">Apple GPU (4 core)</td>
+            <td className="p-2 border border-gray-300">64GB</td>
+          </tr>
+          <tr className="bg-transparent">
+            <td className="p-2 border border-gray-300">Genova</td>
+            <td className="p-2 border border-gray-300">In commission</td>
+            <td className="p-2 border border-gray-300">Apple iPhone Xs</td>
+            <td className="p-2 border border-gray-300">Apple iOS 18.0</td>
+            <td className="p-2 border border-gray-300">Apple A12 Bionic</td>
+            <td className="p-2 border border-gray-300">4GB</td>
             <td className="p-2 border border-gray-300">Apple GPU (4 core)</td>
             <td className="p-2 border border-gray-300">64GB</td>
           </tr>
