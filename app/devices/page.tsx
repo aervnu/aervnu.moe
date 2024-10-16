@@ -184,7 +184,7 @@ const page = () => {
             <td className="p-2 border border-gray-300">Genova</td>
             <td className="p-2 border border-gray-300">In commission</td>
             <td className="p-2 border border-gray-300">Apple iPhone Xs</td>
-            <td className="p-2 border border-gray-300">Apple iOS 18.0</td>
+            <td className="p-2 border border-gray-300">Apple iOS 18.0.1</td>
             <td className="p-2 border border-gray-300">Apple A12 Bionic</td>
             <td className="p-2 border border-gray-300">4GB</td>
             <td className="p-2 border border-gray-300">Apple GPU (4 core)</td>
