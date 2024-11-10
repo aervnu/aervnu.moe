@@ -72,6 +72,16 @@ a{
   }
 }
 
+/* text highlight rules for dark and light mode */
+::selection {
+  background-color: black;
+  color: white;
+}
+.dark ::selection {
+  background-color: white;
+  color: black;
+}
+
 @layer base {
   * {
     @apply border-border;

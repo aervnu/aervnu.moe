@@ -5,8 +5,8 @@ import { ThemeToggle } from "@/components/theme-toggle";
 import NavBar from "@/components/navbar";
 import Link from "next/link";
 
-import { Fira_Sans }  from "next/font/google";
-const FiraSans = Fira_Sans({ weight: "400" })
+import { Fira_Sans } from "next/font/google";
+const FiraSans = Fira_Sans({ weight: "400" });
 
 export const metadata: Metadata = {
   title: "127.0.0.1",
@@ -34,9 +34,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={`${FiraSans.className} antialiased`}
-      >
+      <body className={`${FiraSans.className} antialiased`}>
         <ThemeProvider
           attribute="class"
           defaultTheme="system"
@@ -44,12 +42,12 @@ export default function RootLayout({
           disableTransitionOnChange
         >
           <div className="flex flex-col items-center p-10">
-            <div className="w-full max-w-[900px] items-center justify-center flex flex-col gap-4">
-              <div className="w-full max-w-[875px]">
+            <div className="w-full max-w-[1100px] items-center justify-center flex flex-col gap-4">
+              <div className="w-full max-w-[1100px]">
                 <Nav />
               </div>
               <div className="border-[1px] w-full border-[#7a7a7a]"></div>
-              <div className="w-full max-w-[900px]">{children}</div>
+              <div className="w-full max-w-[1100px]">{children}</div>
             </div>
           </div>
         </ThemeProvider>
