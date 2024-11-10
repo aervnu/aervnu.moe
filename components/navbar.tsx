@@ -20,7 +20,7 @@ const NavBar = () => {
   ];
 
   return (
-    <nav className="flex flex-row gap-4">
+    <nav className="flex flex-row gap-4 flex-wrap justify-center">
       {navItems.map((item) => (
         <Link
           key={item.href}
