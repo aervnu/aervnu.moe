@@ -6,7 +6,7 @@ I'm still fairly new to this type of thing, and messy things are expected. I app
 
 ## Who helped make this?
 
-Credits can be found here.
+Credits can be found [here](https://aervnu.moe/credits).
 
 ## Development
 
