@@ -10,12 +10,12 @@ Credits can be found [here](https://aervnu.moe/credits).
 
 ## Development
 
-Requirements: Node.js ≥ 20
+Requirements: Node.js ≥ 20. Use `pnpm` instead of `npm`, *please*. It's faster and you would have much fewer issues with packages.
 
 Install dependencies:
 
-`npm install --save-dev`
+`pnpm install --save-dev`
 
 Start the site with real-time changes, served at `localhost:3000`:
 
-`npm run dev`
+`pnpm run dev`
