@@ -1,21 +1,12 @@
 import type { Metadata } from "next";
-import localFont from "next/font/local";
 import "./globals.css";
 import { ThemeProvider } from "@/components/theme-provider";
 import { ThemeToggle } from "@/components/theme-toggle";
 import NavBar from "@/components/navbar";
 import Link from "next/link";
 
-const geistSans = localFont({
-  src: "./fonts/GeistVF.woff",
-  variable: "--font-geist-sans",
-  weight: "100 900",
-});
-const geistMono = localFont({
-  src: "./fonts/GeistMonoVF.woff",
-  variable: "--font-geist-mono",
-  weight: "100 900",
-});
+import { Fira_Sans }  from "next/font/google";
+const FiraSans = Fira_Sans({ weight: "400" })
 
 export const metadata: Metadata = {
   title: "127.0.0.1",
@@ -32,34 +23,6 @@ function Nav() {
         <ThemeToggle />
       </div>
       <NavBar />
-      {/*<nav className="flex flex-row items-center justify-center gap-4">*/}
-      {/*  <a className="navA aSelected" href="/" title="Current page">*/}
-      {/*    Root*/}
-      {/*  </a>*/}
-      {/*  <a*/}
-      {/*    className="navA"*/}
-      {/*    href="https://github.com/aervnu/aervnu.moe"*/}
-      {/*    title="Source code of this site"*/}
-      {/*  >*/}
-      {/*    Source*/}
-      {/*  </a>*/}
-      {/*  <a className="navA" href="/clock" title="Real time system clock">*/}
-      {/*    Clock*/}
-      {/*  </a>*/}
-      {/*  <a className="navA" href="/devices" title="My devices">*/}
-      {/*    Devices*/}
-      {/*  </a>*/}
-      {/*  <a*/}
-      {/*    className="navA"*/}
-      {/*    href="https://hastebin.aervnu.moe"*/}
-      {/*    title="All you can paste"*/}
-      {/*  >*/}
-      {/*    Hastebin*/}
-      {/*  </a>*/}
-      {/*  <a className="navA" href="/credits" title="Special thanks">*/}
-      {/*    Credits*/}
-      {/*  </a>*/}
-      {/*</nav>*/}
     </nav>
   );
 }
@@ -72,7 +35,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${FiraSans.className} antialiased`}
       >
         <ThemeProvider
           attribute="class"
