@@ -2,10 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
-
 @layer utilities {
   .text-balance {
     text-wrap: balance;
@@ -74,6 +70,16 @@ a{
     --chart-4: 280 65% 60%;
     --chart-5: 340 75% 55%;
   }
+}
+
+/* text highlight rules for dark and light mode */
+::selection {
+  background-color: black;
+  color: white;
+}
+.dark ::selection {
+  background-color: white;
+  color: black;
 }
 
 @layer base {

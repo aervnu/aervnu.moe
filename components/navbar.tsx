@@ -20,12 +20,12 @@ const NavBar = () => {
   ];
 
   return (
-    <nav className="flex flex-row gap-4">
+    <nav className="flex flex-row gap-4 flex-wrap justify-center">
       {navItems.map((item) => (
         <Link
           key={item.href}
           href={item.href}
-          className={`no-underline ${
+          className={`no-underline navA ${
             pathname === item.href
               ? "font-bold dark:text-white text-black"
               : "dark:text-gray-400 text-gray-600"
