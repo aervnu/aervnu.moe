@@ -84,7 +84,7 @@ const computers: Array<deviceTableRowProps> = [
     os: "Microsoft Windows 11 Pro for Works,tations 24H2",
     cpu: "AMD Ryzen 7 5700X3D",
     memory: "32GB (2x16GB) DDR4-3600 UDIMM (XMP)",
-    gpus: ["MSI MECH 2X Radeon RX 6700XT 12GB", "Test"],
+    gpus: ["MSI MECH 2X Radeon RX 6700XT 12GB"],
     disks: [
       "NSID 1: 500GB KINGSTON NV2 NVMe PCIe 4.0 x4",
       "NSID 2: 500GB KINGSTON NV2 NVMe PCIe 4.0 x4",
