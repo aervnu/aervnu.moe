@@ -25,7 +25,7 @@ const NavBar = () => {
         <Link
           key={item.href}
           href={item.href}
-          className={`no-underline ${
+          className={`no-underline navA ${
             pathname === item.href
               ? "font-bold dark:text-white text-black"
               : "dark:text-gray-400 text-gray-600"
