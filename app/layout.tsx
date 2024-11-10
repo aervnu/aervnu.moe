@@ -6,7 +6,7 @@ import NavBar from "@/components/navbar";
 import Link from "next/link";
 
 import { Fira_Sans } from "next/font/google";
-const FiraSans = Fira_Sans({ weight: "400" });
+const FiraSans = Fira_Sans({ subsets: ["latin"], weight: "400" });
 
 export const metadata: Metadata = {
   title: "127.0.0.1",
