@@ -81,7 +81,7 @@ const computers: Array<deviceTableRowProps> = [
     codename: "Roma",
     status: "In commission",
     systemType: "MSI B550-A PRO (MS-7C56)",
-    os: "Microsoft Windows 11 Pro for Works,tations 24H2",
+    os: "Microsoft Windows 11 Pro for Workstations 24H2",
     cpu: "AMD Ryzen 7 5700X3D",
     memory: "32GB (2x16GB) DDR4-3600 UDIMM (XMP)",
     gpus: ["MSI MECH 2X Radeon RX 6700XT 12GB"],
