@@ -12,7 +12,7 @@ import {
 import { ScrollArea, ScrollBar } from "@/components/ui/scroll-area";
 
 export const metadata: Metadata = {
-  title: "My devices",
+  title: "Devices",
   description: "What do I (used to) use?",
 };
 

@@ -10,13 +10,14 @@ const NavBar = () => {
     { label: "Home", href: "/", newTab: false },
     { label: "Clock", href: "/clock", newTab: false },
     { label: "Devices", href: "/devices", newTab: false },
+    { label: "Abandonware", href: "/abandonware", newTab: false },
+    { label: "Hastebin", href: "https://hastebin.aervnu.moe", newTab: true },
     { label: "Credits", href: "/credits", newTab: false },
     {
       label: "Source",
       href: "https://github.com/aervnu/aervnu.moe",
       newTab: true,
     },
-    { label: "Hastebin", href: "https://hastebin.aervnu.moe", newTab: true },
   ];
 
   return (
