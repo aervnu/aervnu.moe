@@ -10,7 +10,7 @@ Credits can be found [here](https://aervnu.moe/credits).
 
 ## Development
 
-Requirements: Node.js ≥ 20. Use `pnpm` instead of `npm`, *please*. It's faster and you would have much fewer issues with packages.
+Requirements: Node.js ≥ 22. Use `pnpm` instead of `npm`, *please*. It's faster and you would have much fewer issues with packages.
 
 Install dependencies:
 
