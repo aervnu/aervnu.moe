@@ -43,10 +43,7 @@ const Page = () => {
           degree in Japan.
           <br />
           <br />
-          Networking. Lowkey my favorite when it comes to computing, even as
-          traumatizing as it is setting up my Oracle VPS. Heading to a telecom
-          corporation and aiming for a CCNA, but if need be I can attempt to get
-          the CCNP.
+          Networking. Funnily I love networking more than writing code. Aiming for the CCNA before CCNP.
           <br />
           <br />
           Some web-oriented (idek if I got this right) languages, like C#, Java
