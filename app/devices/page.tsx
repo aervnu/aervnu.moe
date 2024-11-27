@@ -125,7 +125,7 @@ const computers: Array<deviceTableRowProps> = [
     systemType: "ASUS VivoBook X1503ZA",
     os: "Microsoft Windows 11 Pro 24H2",
     cpu: "Intel Core i3-1220P",
-    memory: "16GB (2x8GB) DDR4-2400 SODIMM",
+    memory: "16GB (2x8GB) DDR4-3200 SODIMM",
     gpus: ["Intel UHD Graphics 64EU"],
     disks: ["NSID 1: 256GB Micron 2450 NVMe PCIe 4.0 x4"],
   },
