@@ -4,6 +4,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 import { ThemeToggle } from "@/components/theme-toggle";
 import NavBar from "@/components/navbar";
 import Link from "next/link";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 import { Fira_Sans } from "next/font/google";
 const FiraSans = Fira_Sans({ subsets: ["latin"], weight: "400" });
