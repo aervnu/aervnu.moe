@@ -18,7 +18,7 @@ const page = () => {
   return (
     <div className={fira.className + " text-center"}>
       <h1>
-        <strong>Real time system clock</strong>
+        <strong>Real time system clock (Indochina Standard Time/UTC+7)</strong>
       </h1>
       <br />
       <p>
