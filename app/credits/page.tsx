@@ -18,9 +18,9 @@ const page = () => {
         these people:
         <br />
         <br />- <a href="https://floatingmilkshake.com/">Milkshake</a> for the
-        base frontend (well, most of the HTML code plus some parts of the CSS
-        that is. I&apos;ve successfully moved the page over to Vercel, but
-        it&apos;s more or less still an indirect adaptation.)
+        base frontend. The site started off with vanilla HTML and a while later
+        it got a big update to NextJS. Now there's not a lot of this original
+        code on this site, but still his code is what made it possible.
         <br />
         <br />- <a href="https://erisa.uk/">Erisa</a> for her advices on DNS
         stuff. (fun fact: this page used to be hosted on Cloudflare Pages before
@@ -29,11 +29,10 @@ const page = () => {
         <br />
         <br />- <a href="https://coburnius.net/">CoburnFuse</a> and{" "}
         <a href="https://github.com/sthivaios/">Stratos</a> for general page
-        optimizations.
+        optimizations. You. Guys. Helped. A. Lot.
         <br />
-        <br />- <a href="https://1k2s.netlify.app/">1Git2Clone</a> for code
-        formatting optimizations. (sorry dude I broke your Prettier config but
-        I&apos;ll throw things into src for dev before pushing to prod.)
+        <br />- <a href="https://1k2s.netlify.app/">1Kill2Steal</a> for code
+        formatting optimizations.
         <br />
         <br />
         (And do check out all their cool stuff as well.)
