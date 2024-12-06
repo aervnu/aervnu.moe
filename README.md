@@ -1,4 +1,4 @@
-# aervnu.moe 
+# aervnu.moe
 
 Yes, my website. Please open a PR if you have any suggestions for it.
 
@@ -10,7 +10,7 @@ Credits can be found [here](https://aervnu.moe/credits).
 
 ## Development
 
-Requirements: Node.js ≥ 22. Use `pnpm` instead of `npm`, *please*. It's faster and you would have much fewer issues with packages.
+Requirements: Node.js ≥ 22. Use `pnpm` instead of `npm`, _please_. It's faster and you would have much fewer issues with packages.
 
 Install dependencies:
 

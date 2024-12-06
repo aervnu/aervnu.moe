@@ -8,11 +8,11 @@
   }
 }
 
-a{
+a {
   @apply font-bold underline;
 }
 
-.navA{
+.navA {
   @apply font-normal;
 }
 

@@ -43,7 +43,8 @@ const Page = () => {
           degree in Japan.
           <br />
           <br />
-          Networking. Funnily I love networking more than writing code. Aiming for the CCNA before CCNP.
+          Networking. Funnily I love networking more than writing code. Aiming
+          for the CCNA before CCNP.
           <br />
           <br />
           Some web-oriented (idek if I got this right) languages, like C#, Java
