@@ -36,6 +36,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${FiraSans.className} antialiased`}>
+        <SpeedInsights />
         <ThemeProvider
           attribute="class"
           defaultTheme="system"
