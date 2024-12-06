@@ -5,6 +5,7 @@ import { ThemeToggle } from "@/components/theme-toggle";
 import NavBar from "@/components/navbar";
 import Link from "next/link";
 import { SpeedInsights } from "@vercel/speed-insights/next";
+// eslint-disable-line no-unused-vars
 
 import { Fira_Sans } from "next/font/google";
 const FiraSans = Fira_Sans({ subsets: ["latin"], weight: "400" });
