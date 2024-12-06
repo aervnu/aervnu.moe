@@ -5,6 +5,7 @@ import { ThemeToggle } from "@/components/theme-toggle";
 import NavBar from "@/components/navbar";
 import Link from "next/link";
 import { SpeedInsights } from "@vercel/speed-insights/next";
+import { Analytics } from "@vercel/analytics/react";
 
 import { Fira_Sans } from "next/font/google";
 const FiraSans = Fira_Sans({ subsets: ["latin"], weight: "400" });
@@ -37,6 +38,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={`${FiraSans.className} antialiased`}>
         <SpeedInsights />
+        <Analytics />
         <ThemeProvider
           attribute="class"
           defaultTheme="system"
