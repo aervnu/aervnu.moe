@@ -19,8 +19,8 @@ const page = () => {
         <br />
         <br />- <a href="https://floatingmilkshake.com/">Milkshake</a> for the
         base frontend. The site started off with vanilla HTML and a while later
-        it got a big update to NextJS. Now there's not a lot of this original
-        code on this site, but still his code is what made it possible.
+        it got a big update to NextJS. Now there&apos;s not a lot of this
+        original code on this site, but still his code is what made it possible.
         <br />
         <br />- <a href="https://erisa.uk/">Erisa</a> for her advices on DNS
         stuff. (fun fact: this page used to be hosted on Cloudflare Pages before
