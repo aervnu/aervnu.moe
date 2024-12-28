@@ -16,7 +16,7 @@ import {
   AccordionContent,
   AccordionItem,
   AccordionTrigger,
-} from "@/components/ui/accordion"
+} from "@/components/ui/accordion";
 
 export const metadata: Metadata = {
   title: "Devices",
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
 type devicesJsonResponse = {
   computers: Array<deviceTableRowProps>;
   mobile_devices: Array<deviceTableRowProps>;
-}
+};
 
 type deviceTableRowProps = {
   codename: string;
@@ -89,9 +89,9 @@ function DeviceTableRow(props: { device: deviceTableRowProps }) {
 }
 
 const page = async () => {
-  try{
+  try {
     const devicesResponse = await fetch("https://devicejson.aervnu.moe/");
-    const devices:devicesJsonResponse = await devicesResponse.json();
+    const devices: devicesJsonResponse = await devicesResponse.json();
 
     return (
       <div className="flex flex-col justify-center text-center">
@@ -129,7 +129,9 @@ const page = async () => {
           <div className="border-[1px] w-96 border-[#d9d9d9]"></div>
 
           <div className="w-full flex flex-col gap-3">
-            <p className="font-bold text-xl w-full text-center">Mobile Devices</p>
+            <p className="font-bold text-xl w-full text-center">
+              Mobile Devices
+            </p>
             <ScrollArea className="w-full whitespace-nowrap rounded-md border">
               <Table>
                 <TableHeader>
@@ -158,7 +160,7 @@ const page = async () => {
         </div>
       </div>
     );
-  } catch (e: unknown){
+  } catch (e: unknown) {
     if (e instanceof Error) {
       return (
         <div className="flex flex-col justify-center text-center">
@@ -169,7 +171,10 @@ const page = async () => {
           <div className="w-full flex flex-col gap-3 items-center">
             <TriangleAlert color="orange" />
             <div className="flex flex-col items-center gap-2">
-              <p>Oops. That wasn&apos;t supposed to happen. <a href="/">Head back home?</a></p>
+              <p>
+                Oops. That wasn&apos;t supposed to happen.{" "}
+                <a href="/">Head back home?</a>
+              </p>
             </div>
             <Accordion type="single" collapsible className="w-[50%]">
               <AccordionItem value="item-1">
@@ -184,7 +189,6 @@ const page = async () => {
       );
     }
   }
-
 };
 
 export default page;
