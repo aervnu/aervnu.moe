@@ -21,7 +21,7 @@ function Nav() {
     <nav className="flex flex-col gap-4 justify-center items-center">
       <div className="flex flex-row items-center justify-between w-full flex-wrap">
         <Link className="font-bold text-3xl no-underline" href="/">
-          aervnu.moe
+          Sabbatical's Corner
         </Link>
         <ThemeToggle />
       </div>
