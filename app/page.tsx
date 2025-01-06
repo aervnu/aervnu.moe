@@ -8,9 +8,7 @@ const Page = () => {
         </h1>
         <br />
         <p>
-          It&apos;s me, Andy Nguyen. I live in Vietnam, last I checked I was 17.
-          I make things that either break or are not of much use. Plus insane
-          computers you probably wouldn&apos;t find in an average house.
+          Hi, Sabbatical here. I break things.
         </p>
         <br />
         <h1>
@@ -18,13 +16,7 @@ const Page = () => {
         </h1>
         <p>
           <br />
-          Regular expressions. I don&apos;t know why, but to me it&apos;s just
-          really fun to craft and debug regex.
-          <br />
-          <br />
-          Hardware virtualization and (some) low level stuff. I did learn a bit
-          of x86 asm before but...you know what I mean. Not my priority either,
-          since it has limited practicality in production environments.
+          Regular expressions and low level computing. It&apos;s fun, trust me.
           <br />
           <br />
           Photography. Insta is{" "}
@@ -33,28 +25,21 @@ const Page = () => {
         </p>
         <br />
         <h1>
-          <strong>Things I wanna learn more in the future</strong>
+          <strong>Plans for the future (if one of these comes true someone on this world has won 500000 dollars)</strong>
         </h1>
         <p>
           <br />
-          French and Japanese. Currently at DELF B1 for French, used to be at
-          JLPT N5 for Japanese but I ended up not using it much. I still need a
-          JLPT N2 after I finish university, as I&apos;m aiming for a masters
-          degree in Japan.
+          New languages? DE and JP maybe. B2 and N2 respectively I guess.
           <br />
           <br />
-          Networking. Funnily I love networking more than writing code. Aiming
-          for the CCNA before CCNP.
+          Networking. I love this.
           <br />
           <br />
-          Some web-oriented (idek if I got this right) languages, like C#, Java
-          or JS. I have some experience with C# but haven&apos;t touched it for
-          like...months? Anyway, it seems like they&apos;re what the market is
-          targeting for now, so it kinda makes sense to learn them.
+          JS and C++. Big hype.
         </p>
         <br />
         <h1>
-          <strong>Where to contact me</strong>
+          <strong>Contacts</strong>
         </h1>
         <br />
         <ul>
@@ -80,8 +65,7 @@ const Page = () => {
             Work email: <a href="mailto:andy@aervnu.moe">andy@aervnu.moe</a>
           </li>
           <li>
-            GitHub profile: <a href="https://github.com/aervnu">aervnu</a> (only
-            for PRs or issues please.)
+            GitHub profile: <a href="https://github.com/aervnu">aervnu</a>
           </li>
         </ul>
       </div>
