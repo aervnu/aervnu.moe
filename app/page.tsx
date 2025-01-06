@@ -4,7 +4,7 @@ const Page = () => {
     <main>
       <div className="">
         <h1>
-          <strong>Hello. No, this is my localhost. Not yours.</strong>
+          <strong>Oh. How did you land here? Anyways welcome.</strong>
         </h1>
         <br />
         <p>
@@ -16,7 +16,7 @@ const Page = () => {
         </h1>
         <p>
           <br />
-          Regular expressions and low level computing. It&apos;s fun, trust me.
+          Regular expressions and low level computing. Fun stuff, trust me.
           <br />
           <br />
           Photography. Insta is{" "}
