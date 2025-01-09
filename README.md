@@ -14,7 +14,7 @@ Requirements: Node.js ≥ 22. Use `pnpm` instead of `npm`, _please_. It's faster
 
 Install dependencies:
 
-`pnpm install --save-dev`
+`pnpm install`
 
 Start the site with real-time changes, served at `localhost:3000`:
 

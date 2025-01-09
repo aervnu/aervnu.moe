@@ -26,17 +26,15 @@ const Page = () => {
         </p>
         <br />
         <h1>
-          <strong>Plans for the future (if one of these comes true someone on this world will win 500000 dollars)</strong>
+          <strong>Plans for the future (if one of these comes true someone on this planet will win 500000 dollars)</strong>
         </h1>
         <p>
           <br />
           New languages? DE and JP maybe. B2 and N2 respectively I guess.
           <br />
+          Computer networking. I&apos;ll make sure to get a CCNA before I die.
           <br />
-          Computer networking. I&apos;ll make sure I get a CCNA before I die.
-          <br />
-          <br />
-          JS and C++. Hype looks big enough.
+          JS and C++. I don&apos;t know, the hype looks big enough.
         </p>
         <br />
         <h1>
