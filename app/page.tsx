@@ -4,20 +4,21 @@ const Page = () => {
     <main>
       <div className="">
         <h1>
-          <strong>Oh. How did you land here? Anyways welcome.</strong>
+          <strong>Oh. Hi and welcome.</strong>
         </h1>
         <br />
         <p>
-          Hi, Sabbatical here. I break things.
+          Sabbatical here. I break things.
         </p>
         <br />
         <h1>
-          <strong>My hobbies</strong>
+          <strong>What I like</strong>
         </h1>
         <p>
           <br />
           Regular expressions and low level computing. Fun stuff, trust me.
           <br />
+          Fighter aircraft, especially the F-22 Raptor. I love this thing. Jet engines are the best type of engines to have ever existed.
           <br />
           Photography. Insta is{" "}
           <a href="https://www.instagram.com/aervnu.0/">aervnu.0</a>, go check
@@ -25,17 +26,17 @@ const Page = () => {
         </p>
         <br />
         <h1>
-          <strong>Plans for the future (if one of these comes true someone on this world has won 500000 dollars)</strong>
+          <strong>Plans for the future (if one of these comes true someone on this world will win 500000 dollars)</strong>
         </h1>
         <p>
           <br />
           New languages? DE and JP maybe. B2 and N2 respectively I guess.
           <br />
           <br />
-          Networking. I love this.
+          Computer networking. I&apos;ll make sure I get a CCNA before I die.
           <br />
           <br />
-          JS and C++. Big hype.
+          JS and C++. Hype looks big enough.
         </p>
         <br />
         <h1>
