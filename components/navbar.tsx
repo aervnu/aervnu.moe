@@ -10,7 +10,7 @@ const NavBar = () => {
     { label: "Home", href: "/", newTab: false },
     { label: "Clock", href: "/clock", newTab: false },
     { label: "Devices", href: "/devices", newTab: false },
-    { label: "Abandonware", href: "https://github.com/AbandonedWarehouse", newTab: false },
+    { label: "Abandonware", href: "https://github.com/AbandonedWarehouse", newTab: true },
     { label: "Hastebin", href: "https://hastebin.aervnu.moe", newTab: true },
     { label: "Credits", href: "/credits", newTab: false },
     {
