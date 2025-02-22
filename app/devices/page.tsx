@@ -90,7 +90,9 @@ function DeviceTableRow(props: { device: deviceTableRowProps }) {
 
 const page = async () => {
   try {
-    const devicesResponse = await fetch("https://devicejson.aervnu.moe/");
+    const devicesResponse = await fetch("https://devicejson.aervnu.moe/", {
+      cache: "no-store",
+    });
     const devices: devicesJsonResponse = await devicesResponse.json();
 
     return (
