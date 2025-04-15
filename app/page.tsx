@@ -7,9 +7,7 @@ const Page = () => {
           <strong>Oh. Hi and welcome.</strong>
         </h1>
         <br />
-        <p>
-          Sabbatical here. I break things.
-        </p>
+        <p>Sabbatical here. I break things.</p>
         <br />
         <h1>
           <strong>What I like</strong>
@@ -18,7 +16,7 @@ const Page = () => {
           <br />
           Regular expressions and low level computing. Fun stuff, trust me.
           <br />
-          Fighter aircraft, especially the F-22 Raptor. I love this thing. Jet engines are the best type of engines to have ever existed.
+          Fighter aircraft. Ton of them. My fav would definitely be the F-15EX though.
           <br />
           Photography. Insta is{" "}
           <a href="https://www.instagram.com/aervnu.0/">aervnu.0</a>, go check
@@ -26,7 +24,10 @@ const Page = () => {
         </p>
         <br />
         <h1>
-          <strong>Plans for the future (if one of these comes true someone on this planet will win 500000 dollars)</strong>
+          <strong>
+            Plans for the future (if one of these comes true someone on this
+            planet will win 500000 dollars)
+          </strong>
         </h1>
         <p>
           <br />
@@ -53,8 +54,8 @@ const Page = () => {
           </li>
           <li>
             Signal:{" "}
-            <a href="https://signal.me/#eu/GzuQlUo5hWHjbngK7sIXAjiHMRavHLgoLA-K11mlXCSzI7DSszlI1ZbGpi8_suMp">
-              @aervnu.43
+            <a href="https://signal.me/#eu/Z5lNWnCkhRFmLwj2HOi2Yy8YQG7TV-htO6IjLIK70IR74zm0EJ5ID65L3zbQoY_f">
+              @aervnu.64
             </a>
           </li>
           <li>
