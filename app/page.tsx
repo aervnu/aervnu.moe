@@ -7,20 +7,20 @@ const Page = () => {
           <strong>Oh. Hi and welcome.</strong>
         </h1>
         <br />
-        <p>Sabbatical here. I break things.</p>
+        <p>2007. I break things.</p>
         <br />
         <h1>
           <strong>What I like</strong>
         </h1>
         <p>
           <br />
-          Regular expressions and low level computing. Fun stuff, trust me.
+          - Regular expressions and low level computing. Fun stuff, trust me.
+          <br /><br />
+          - Guns. Cannons. Missiles. Basically everything used in air and anti air warfare.
           <br />
-          Fighter aircraft. Ton of them. My fav would definitely be the F-15EX though.
-          <br />
-          Photography. Insta is{" "}
-          <a href="https://www.instagram.com/aervnu.0/">aervnu.0</a>, go check
-          things out there.
+          Speaking of. I should read more about ballistics.
+          <br /><br />
+          - Photography. Well sorta. I haven&apos;t touched my camera for a good while.
         </p>
         <br />
         <h1>
@@ -31,11 +31,11 @@ const Page = () => {
         </h1>
         <p>
           <br />
-          New languages? DE and JP maybe. B2 and N2 respectively I guess.
-          <br />
-          Computer networking. I&apos;ll make sure to get a CCNA before I die.
-          <br />
-          JS and C++. I don&apos;t know, the hype looks big enough.
+          - New languages? DE and JP maybe. B2 and N2 respectively I guess.
+          <br /><br />
+          - Computer networking. I&apos;ll make sure to get a CCNA before I die.
+          <br /><br />
+          - JS and C++. I don&apos;t know, the hype looks big enough.
         </p>
         <br />
         <h1>
@@ -65,7 +65,7 @@ const Page = () => {
             Work email: <a href="mailto:andy@aervnu.moe">andy@aervnu.moe</a>
           </li>
           <li>
-            GitHub profile: <a href="https://github.com/aervnu">aervnu</a>
+            GitHub: <a href="https://github.com/aervnu">aervnu</a>
           </li>
         </ul>
       </div>
