@@ -4,7 +4,7 @@ const Page = () => {
     <main>
       <div className="">
         <h1>
-          <strong>Hi, it's your favorite radio station on air.</strong>
+          <strong>Hi, it&apos;s your favorite radio station on air.</strong>
         </h1>
         <br />
         <p>2007. I break things and play too much Exponential Idle.</p>
