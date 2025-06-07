@@ -4,12 +4,13 @@ const Page = () => {
     <main>
       <div className="">
         <h1>
-          <strong>Hi, it&apos;s your favorite radio station on air.</strong>
+          <strong>Your favorite radio station on air.</strong>
         </h1>
         <br />
         <p>2007 born cosmic disequilibrium survivor.</p>
         <br />
         <p>Aroace, I think.</p>
+        <br />
         <h1>
           <strong>What I (happen to) like</strong>
         </h1>
