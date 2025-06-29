@@ -12,13 +12,13 @@ const Page = () => {
         <p>Aroace, I think.</p>
         <br />
         <h1>
-          <strong>What I (happen to) like</strong>
+          <strong>What I like</strong>
         </h1>
         <p>
           <br />
           - Regex. Why not.
           <br /><br />
-          - Guns. Cannons. Missiles. Fighters too of course. Basically everything used in air and anti air warfare.
+          - Guns. Cannons. Missiles. Fighters. Basically everything used in air and anti air warfare.
           <br />
           Speaking of. I should read more about ballistics.
           <br /><br />
@@ -50,7 +50,7 @@ const Page = () => {
               @aervnu
             </a>
             ; also check out{" "}
-            <a href="discord.gg/microsoft">Microsoft Community server</a> if you like
+            <a href="discord.gg/microsoft">Microsoft Community</a> if you like
           </li>
           <li>
             Signal:{" "}
