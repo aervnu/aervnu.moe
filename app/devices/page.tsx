@@ -109,7 +109,6 @@ const page = async () => {
                 <TableHeader>
                   <TableRow>
                     <TableHead className="text-center">Codename</TableHead>
-                    <TableHead className="text-center">Status</TableHead>
                     <TableHead className="text-center">System type</TableHead>
                     <TableHead className="text-center">OS</TableHead>
                     <TableHead className="text-center">CPU</TableHead>
@@ -139,7 +138,6 @@ const page = async () => {
                 <TableHeader>
                   <TableRow>
                     <TableHead className="text-center">Codename</TableHead>
-                    <TableHead className="text-center">Status</TableHead>
                     <TableHead className="text-center">System type</TableHead>
                     <TableHead className="text-center">OS</TableHead>
                     <TableHead className="text-center">CPU</TableHead>
