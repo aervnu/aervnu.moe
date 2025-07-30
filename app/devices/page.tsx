@@ -30,7 +30,6 @@ type devicesJsonResponse = {
 
 type deviceTableRowProps = {
   codename: string;
-  status: string;
   systemType: string;
   os: string;
   cpu: string;
@@ -75,7 +74,6 @@ function DeviceTableRow(props: { device: deviceTableRowProps }) {
   return (
     <TableRow>
       <TableCell className="w-32 text-wrap">{props.device.codename}</TableCell>
-      <TableCell className="w-32 text-wrap">{props.device.status}</TableCell>
       <TableCell className="w-32 text-wrap">
         {props.device.systemType}
       </TableCell>
