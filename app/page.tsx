@@ -4,10 +4,10 @@ const Page = () => {
     <main>
       <div className="">
         <h1>
-          <strong>Your favorite radio station on air.</strong>
+          <strong>Oh, hi. Good to see you. Welcome to my humble page.</strong>
         </h1>
         <br />
-        <p>2007 born cosmic disequilibrium survivor.</p>
+        <p>An 18 year old Vietnamese, studying in network engineering.</p>
         <br />
         <p>Aroace, I think.</p>
         <br />
@@ -32,11 +32,9 @@ const Page = () => {
         </h1>
         <p>
           <br />
-          - New language. Probably German or Japanese.
+          - New language. Probably German.
           <br /><br />
-          - Networking degree. CCNA or die.
-          <br /><br />
-          - JS and C++...maybe?
+          - Networking degree. Gotta stand out with a CCNP.
         </p>
         <br />
         <h1>
