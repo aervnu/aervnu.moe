@@ -18,11 +18,9 @@ const Page = () => {
           <br />
           - Regex. Why not.
           <br /><br />
-          - Guns. Cannons. Missiles. Fighters. Basically everything used in air and anti air warfare.
-          <br />
-          Speaking of. I should read more about ballistics.
+          - Aircraft cannons, artillery, and missiles. All of them...Speaking of. I should read more about ballistics.
           <br /><br />
-          - Photo...? Sorta.
+          - Photography...? Sorta.
         </p>
         <br />
         <h1>
@@ -32,9 +30,9 @@ const Page = () => {
         </h1>
         <p>
           <br />
-          - New language. Probably German.
-          <br /><br />
           - Networking degree. Gotta stand out with a CCNP.
+          <br /><br />
+          - Chase the stars
         </p>
         <br />
         <h1>
