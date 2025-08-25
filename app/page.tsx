@@ -32,7 +32,7 @@ const Page = () => {
           <br />
           - Networking degree. Gotta stand out with a CCNP.
           <br /><br />
-          - Chase the stars
+          - Chase the stars, as I always have.
         </p>
         <br />
         <h1>
