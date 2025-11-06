@@ -25,14 +25,13 @@ const Page = () => {
         <br />
         <h1>
           <strong>
-            Plans for the future
+            Plans for the future (That is, if I survive university.)
           </strong>
         </h1>
         <p>
           <br />
           - Networking degree. Gotta stand out with a CCNP.
           <br /><br />
-          - Chase the stars, for a future I have always believed in.
         </p>
         <br />
         <h1>
