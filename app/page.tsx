@@ -31,7 +31,6 @@ const Page = () => {
         <p>
           <br />
           - Networking degree. Gotta stand out with a CCNP.
-          <br /><br />
         </p>
         <br />
         <h1>
