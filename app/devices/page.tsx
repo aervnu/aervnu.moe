@@ -125,7 +125,7 @@ const page = async () => {
             </ScrollArea>
           </div>
 
-          <div className="border-[1px] w-96 border-[#d9d9d9]"></div>
+          <div className="border w-96 border-[#d9d9d9]"></div>
 
           <div className="w-full flex flex-col gap-3">
             <p className="font-bold text-xl w-full text-center">
@@ -160,6 +160,7 @@ const page = async () => {
     );
   } catch (e: unknown) {
     if (e instanceof Error) {
+      console.error(e);
       return (
         <div className="flex flex-col justify-center text-center">
           <h1 className="mb-6">
