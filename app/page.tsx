@@ -17,10 +17,12 @@ const Page = () => {
         <p>
           <br />
           - Regex. Why not.
-          <br /><br />
-          - Aircraft cannons, artillery, and missiles. All of them...Speaking of. I should read more about ballistics.
-          <br /><br />
-          - Photography...? Sorta.
+          <br />
+          <br />
+          - Aircraft cannons, artillery, and missiles. All of them...Speaking
+          of. I should read more about ballistics.
+          <br />
+          <br />- Photography...? Sorta.
         </p>
         <br />
         <h1>
@@ -29,8 +31,7 @@ const Page = () => {
           </strong>
         </h1>
         <p>
-          <br />
-          - Networking degree. Gotta stand out with a CCNP.
+          <br />- Networking degree. Gotta stand out with a CCNP.
         </p>
         <br />
         <h1>
