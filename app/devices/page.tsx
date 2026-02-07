@@ -87,7 +87,7 @@ function DeviceTableRow(props: { device: deviceTableRowProps }) {
 
 const page = async () => {
   try {
-    const devicesResponse = await fetch("https://devicejson.aervnu.moe/", {
+    const devicesResponse = await fetch("https://devices-api.aervnu.workers.dev", {
       cache: "no-store",
         headers: {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
